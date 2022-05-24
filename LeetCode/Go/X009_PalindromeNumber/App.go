@@ -1,4 +1,4 @@
-package PalindromeNumber
+package X009_PalindromeNumber
 
 import (
 	"fmt"
