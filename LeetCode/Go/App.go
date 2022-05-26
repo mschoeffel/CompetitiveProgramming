@@ -5,6 +5,7 @@ import (
 	"Leetcode/X009_PalindromeNumber"
 	"Leetcode/X013_RomanToInteger"
 	"Leetcode/X014_LongestCommonPrefix"
+	"Leetcode/X020_ValidParentheses"
 	"fmt"
 )
 
@@ -17,4 +18,6 @@ func main() {
 	X013_RomanToInteger.Main()
 	fmt.Println("X014_LongestCommonPrefix:")
 	X014_LongestCommonPrefix.Main()
+	fmt.Println("X020_ValidParentheses:")
+	X020_ValidParentheses.Main()
 }
