@@ -1,4 +1,4 @@
-package X014_LongestCommonPrefix
+package X0014_LongestCommonPrefix
 
 import (
 	"fmt"
