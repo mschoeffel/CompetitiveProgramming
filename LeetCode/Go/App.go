@@ -6,6 +6,8 @@ import (
 	"Leetcode/X0013_RomanToInteger"
 	"Leetcode/X0014_LongestCommonPrefix"
 	"Leetcode/X0020_ValidParentheses"
+	"Leetcode/X0021_MergeTwoSortedLists"
+	"Leetcode/X0026_RemoveDuplicatesFromSortedArray"
 	"fmt"
 )
 
@@ -21,5 +23,7 @@ func main() {
 	fmt.Println("X0020_ValidParentheses:")
 	X0020_ValidParentheses.Main()
 	fmt.Println("MergeTwoSortedLists:")
-	X0020_ValidParentheses.Main()
+	X0021_MergeTwoSortedLists.Main()
+	fmt.Println("RemoveDuplicatesFromSortedArray:")
+	X0026_RemoveDuplicatesFromSortedArray.Main()
 }
