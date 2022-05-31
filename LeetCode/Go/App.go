@@ -8,6 +8,7 @@ import (
 	"Leetcode/X0020_ValidParentheses"
 	"Leetcode/X0021_MergeTwoSortedLists"
 	"Leetcode/X0026_RemoveDuplicatesFromSortedArray"
+	"Leetcode/X0027_RemoveElement"
 	"fmt"
 )
 
@@ -26,4 +27,6 @@ func main() {
 	X0021_MergeTwoSortedLists.Main()
 	fmt.Println("RemoveDuplicatesFromSortedArray:")
 	X0026_RemoveDuplicatesFromSortedArray.Main()
+	fmt.Println("RemoveElement:")
+	X0027_RemoveElement.Main()
 }
