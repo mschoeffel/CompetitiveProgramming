@@ -51,3 +51,34 @@ func testAppBuildIn(nums []int, target int, expected int, index int, t *testing.
 			" Actual: " + strconv.Itoa(actual))
 	}
 }
+
+func BenchmarkApp(b *testing.B) {
+	benchmarkSets := []InputCase{
+		{nums: []int{1, 3, 5, 6}, target: 5, comment: "Example1"},
+		{nums: []int{1, 3, 5, 6}, target: 2, comment: "Example2"},
+		{nums: []int{1, 3, 5, 6}, target: 7, comment: "Example3"},
+		{nums: []int{2, 3, 5, 6}, target: 1, comment: "FirstElement"},
+		{nums: []int{}, target: 1, comment: "NumsEmpty"},
+		{nums: []int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}, target: 12, comment: "LongSampleIncluded"},
+		{nums: []int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}, target: 30, comment: "LongSampleExcluded"},
+	}
+
+	for index, element := range benchmarkSets {
+		b.Run("Benchmark: "+strconv.Itoa(index)+"_"+element.comment,
+			func(b *testing.B) { benchmarkApp(element.nums, element.target, b) })
+		b.Run("Benchmark BuildIn: "+strconv.Itoa(index)+"_"+element.comment,
+			func(b *testing.B) { benchmarkAppBuildIn(element.nums, element.target, b) })
+	}
+}
+
+func benchmarkApp(nums []int, target int, b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		searchInsert(nums, target)
+	}
+}
+
+func benchmarkAppBuildIn(nums []int, target int, b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		searchInsertBuildIn(nums, target)
+	}
+}
