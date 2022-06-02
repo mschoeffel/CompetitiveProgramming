@@ -10,6 +10,7 @@ import (
 	"Leetcode/X0026_RemoveDuplicatesFromSortedArray"
 	"Leetcode/X0027_RemoveElement"
 	"Leetcode/X0028_ImplementStrStr"
+	"Leetcode/X0035_SearchInsertPosition"
 	"fmt"
 )
 
@@ -32,4 +33,6 @@ func main() {
 	X0027_RemoveElement.Main()
 	fmt.Println("X0028_ImplementStrStr:")
 	X0028_ImplementStrStr.Main()
+	fmt.Println("X0035_SearchInsertPosition:")
+	X0035_SearchInsertPosition.Main()
 }
