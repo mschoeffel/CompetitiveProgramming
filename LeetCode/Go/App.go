@@ -11,6 +11,7 @@ import (
 	"Leetcode/X0027_RemoveElement"
 	"Leetcode/X0028_ImplementStrStr"
 	"Leetcode/X0035_SearchInsertPosition"
+	"Leetcode/X0053_MaximumSubarray"
 	"fmt"
 )
 
@@ -35,4 +36,6 @@ func main() {
 	X0028_ImplementStrStr.Main()
 	fmt.Println("X0035_SearchInsertPosition:")
 	X0035_SearchInsertPosition.Main()
+	fmt.Println("X0053_MaximumSubarray:")
+	X0053_MaximumSubarray.Main()
 }
