@@ -13,6 +13,7 @@ import (
 	"Leetcode/X0035_SearchInsertPosition"
 	"Leetcode/X0053_MaximumSubarray"
 	"Leetcode/X0058_LengthOfLastWord"
+	"Leetcode/X0066_PlusOne"
 	"fmt"
 )
 
@@ -41,4 +42,6 @@ func main() {
 	X0053_MaximumSubarray.Main()
 	fmt.Println("X0058_LengthOfLastWord:")
 	X0058_LengthOfLastWord.Main()
+	fmt.Println("X0066_PlusOne:")
+	X0066_PlusOne.Main()
 }
