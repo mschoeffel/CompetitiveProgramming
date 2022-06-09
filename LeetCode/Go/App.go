@@ -15,6 +15,7 @@ import (
 	"Leetcode/X0058_LengthOfLastWord"
 	"Leetcode/X0066_PlusOne"
 	"Leetcode/X0067_AddBinary"
+	"Leetcode/X0069_Sqrt"
 	"fmt"
 )
 
@@ -47,4 +48,6 @@ func main() {
 	X0066_PlusOne.Main()
 	fmt.Println("X0067_AddBinary:")
 	X0067_AddBinary.Main()
+	fmt.Println("X0069_Sqrt:")
+	X0069_Sqrt.Main()
 }
