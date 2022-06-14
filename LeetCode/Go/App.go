@@ -17,6 +17,7 @@ import (
 	"Leetcode/X0067_AddBinary"
 	"Leetcode/X0069_Sqrt"
 	"Leetcode/X0070_ClimbingStairs"
+	"Leetcode/X0083_RemoveDuplicatesFromSortedList"
 	"fmt"
 )
 
@@ -53,4 +54,6 @@ func main() {
 	X0069_Sqrt.Main()
 	fmt.Println("X0070_ClimbingStairs:")
 	X0070_ClimbingStairs.Main()
+	fmt.Println("X0083_RemoveDuplicatesFromSortedList:")
+	X0083_RemoveDuplicatesFromSortedList.Main()
 }
