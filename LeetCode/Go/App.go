@@ -18,6 +18,7 @@ import (
 	"Leetcode/X0069_Sqrt"
 	"Leetcode/X0070_ClimbingStairs"
 	"Leetcode/X0083_RemoveDuplicatesFromSortedList"
+	"Leetcode/X0088_MergeSortedArray"
 	"fmt"
 )
 
@@ -56,4 +57,6 @@ func main() {
 	X0070_ClimbingStairs.Main()
 	fmt.Println("X0083_RemoveDuplicatesFromSortedList:")
 	X0083_RemoveDuplicatesFromSortedList.Main()
+	fmt.Println("X0088_MergeSortedArray:")
+	X0088_MergeSortedArray.Main()
 }
