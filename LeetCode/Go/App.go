@@ -21,6 +21,7 @@ import (
 	"Leetcode/X0088_MergeSortedArray"
 	"Leetcode/X0094_BinaryTreeInorderTraversal"
 	"Leetcode/X0100_SameTree"
+	"Leetcode/X0101_SymmetricTree"
 	"fmt"
 )
 
@@ -65,4 +66,6 @@ func main() {
 	X0094_BinaryTreeInorderTraversal.Main()
 	fmt.Println("X0100_SameTree:")
 	X0100_SameTree.Main()
+	fmt.Println("X0101_SymmetricTree:")
+	X0101_SymmetricTree.Main()
 }
