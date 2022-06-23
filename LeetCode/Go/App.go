@@ -24,6 +24,7 @@ import (
 	"Leetcode/X0101_SymmetricTree"
 	"Leetcode/X0104_MaximumDepthOfBinaryTree"
 	"Leetcode/X0108_ConvertSortedArrayToBinarySearchTree"
+	"Leetcode/X0110_BalancedBinaryTree"
 	"fmt"
 )
 
@@ -74,4 +75,6 @@ func main() {
 	X0104_MaximumDepthOfBinaryTree.Main()
 	fmt.Println("X0108_ConvertSortedArrayToBinarySearchTree:")
 	X0108_ConvertSortedArrayToBinarySearchTree.Main()
+	fmt.Println("X0110_BalancedBinaryTree:")
+	X0110_BalancedBinaryTree.Main()
 }
