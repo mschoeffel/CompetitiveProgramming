@@ -27,6 +27,7 @@ import (
 	"Leetcode/X0110_BalancedBinaryTree"
 	"Leetcode/X0111_MinimumDepthOfBinaryTree"
 	"Leetcode/X0112_PathSum"
+	"Leetcode/X0118_PascalsTriangle"
 	"fmt"
 )
 
@@ -83,4 +84,6 @@ func main() {
 	X0111_MinimumDepthOfBinaryTree.Main()
 	fmt.Println("X0112_PathSum:")
 	X0112_PathSum.Main()
+	fmt.Println("X0118_PascalsTriangle:")
+	X0118_PascalsTriangle.Main()
 }
