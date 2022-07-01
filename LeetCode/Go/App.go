@@ -29,6 +29,7 @@ import (
 	"Leetcode/X0112_PathSum"
 	"Leetcode/X0118_PascalsTriangle"
 	"Leetcode/X0119_PascalsTriangle2"
+	"Leetcode/X0121_BestTimeToBuyAndSellStock"
 	"fmt"
 )
 
@@ -89,4 +90,6 @@ func main() {
 	X0118_PascalsTriangle.Main()
 	fmt.Println("X0119_PascalsTriangle2:")
 	X0119_PascalsTriangle2.Main()
+	fmt.Println("X0121_BestTimeToBuyAndSellStock:")
+	X0121_BestTimeToBuyAndSellStock.Main()
 }
