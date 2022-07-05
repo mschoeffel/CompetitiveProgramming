@@ -31,6 +31,7 @@ import (
 	"Leetcode/X0119_PascalsTriangle2"
 	"Leetcode/X0121_BestTimeToBuyAndSellStock"
 	"Leetcode/X0125_ValidPalindrome"
+	"Leetcode/X0136_SingleNumber"
 	"fmt"
 )
 
@@ -95,4 +96,6 @@ func main() {
 	X0121_BestTimeToBuyAndSellStock.Main()
 	fmt.Println("X0125_ValidPalindrome:")
 	X0125_ValidPalindrome.Main()
+	fmt.Println("X0136_SingleNumber:")
+	X0136_SingleNumber.Main()
 }
