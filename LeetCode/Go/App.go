@@ -34,6 +34,7 @@ import (
 	"Leetcode/X0136_SingleNumber"
 	"Leetcode/X0141_LinkedListCycle"
 	"Leetcode/X0144_BinaryTreePreorderTraversal"
+	"Leetcode/X0145_BinaryTreePostorderTraversal"
 	"fmt"
 )
 
@@ -104,4 +105,6 @@ func main() {
 	X0141_LinkedListCycle.Main()
 	fmt.Println("X0144_BinaryTreePreorderTraversal:")
 	X0144_BinaryTreePreorderTraversal.Main()
+	fmt.Println("X0145_BinaryTreePostorderTraversal:")
+	X0145_BinaryTreePostorderTraversal.Main()
 }
