@@ -35,6 +35,7 @@ import (
 	"Leetcode/X0141_LinkedListCycle"
 	"Leetcode/X0144_BinaryTreePreorderTraversal"
 	"Leetcode/X0145_BinaryTreePostorderTraversal"
+	"Leetcode/X0160_IntersectionOfTwoLinkedLists"
 	"fmt"
 )
 
@@ -107,4 +108,6 @@ func main() {
 	X0144_BinaryTreePreorderTraversal.Main()
 	fmt.Println("X0145_BinaryTreePostorderTraversal:")
 	X0145_BinaryTreePostorderTraversal.Main()
+	fmt.Println("X0160_IntersectionOfTwoLinkedLists:")
+	X0160_IntersectionOfTwoLinkedLists.Main()
 }
