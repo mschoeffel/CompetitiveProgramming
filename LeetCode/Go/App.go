@@ -37,6 +37,7 @@ import (
 	"Leetcode/X0145_BinaryTreePostorderTraversal"
 	"Leetcode/X0160_IntersectionOfTwoLinkedLists"
 	"Leetcode/X0168_ExcelSheetColumnTitle"
+	"Leetcode/X0169_MajorityElement"
 	"fmt"
 )
 
@@ -113,4 +114,6 @@ func main() {
 	X0160_IntersectionOfTwoLinkedLists.Main()
 	fmt.Println("X0168_ExcelSheetColumnTitle:")
 	X0168_ExcelSheetColumnTitle.Main()
+	fmt.Println("X0169_MajorityElement:")
+	X0169_MajorityElement.Main()
 }
