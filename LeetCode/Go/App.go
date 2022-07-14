@@ -38,6 +38,7 @@ import (
 	"Leetcode/X0160_IntersectionOfTwoLinkedLists"
 	"Leetcode/X0168_ExcelSheetColumnTitle"
 	"Leetcode/X0169_MajorityElement"
+	"Leetcode/X0171_ExcelSheetColumnNumber"
 	"fmt"
 )
 
@@ -116,4 +117,6 @@ func main() {
 	X0168_ExcelSheetColumnTitle.Main()
 	fmt.Println("X0169_MajorityElement:")
 	X0169_MajorityElement.Main()
+	fmt.Println("X0171_ExcelSheetColumnNumber:")
+	X0171_ExcelSheetColumnNumber.Main()
 }
