@@ -39,6 +39,7 @@ import (
 	"Leetcode/X0168_ExcelSheetColumnTitle"
 	"Leetcode/X0169_MajorityElement"
 	"Leetcode/X0171_ExcelSheetColumnNumber"
+	"Leetcode/X0190_ReverseBits"
 	"fmt"
 )
 
@@ -119,4 +120,6 @@ func main() {
 	X0169_MajorityElement.Main()
 	fmt.Println("X0171_ExcelSheetColumnNumber:")
 	X0171_ExcelSheetColumnNumber.Main()
+	fmt.Println("X0190_ReverseBits:")
+	X0190_ReverseBits.Main()
 }
