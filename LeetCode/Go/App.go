@@ -41,6 +41,7 @@ import (
 	"Leetcode/X0171_ExcelSheetColumnNumber"
 	"Leetcode/X0190_ReverseBits"
 	"Leetcode/X0191_NumberOf1Bits"
+	"Leetcode/X0202_HappyNumber"
 	"fmt"
 )
 
@@ -125,4 +126,6 @@ func main() {
 	X0190_ReverseBits.Main()
 	fmt.Println("X0191_NumberOf1Bits:")
 	X0191_NumberOf1Bits.Main()
+	fmt.Println("X0202_HappyNumber:")
+	X0202_HappyNumber.Main()
 }
