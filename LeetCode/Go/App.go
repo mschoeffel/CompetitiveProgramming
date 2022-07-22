@@ -43,6 +43,7 @@ import (
 	"Leetcode/X0191_NumberOf1Bits"
 	"Leetcode/X0202_HappyNumber"
 	"Leetcode/X0203_RemoveLinkedListElements"
+	"Leetcode/X0205_IsomorphicStrings"
 	"fmt"
 )
 
@@ -131,4 +132,6 @@ func main() {
 	X0202_HappyNumber.Main()
 	fmt.Println("X0203_RemoveLinkedListElements:")
 	X0203_RemoveLinkedListElements.Main()
+	fmt.Println("X0205_IsomorphicStrings:")
+	X0205_IsomorphicStrings.Main()
 }
