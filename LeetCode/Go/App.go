@@ -46,6 +46,7 @@ import (
 	"Leetcode/X0205_IsomorphicStrings"
 	"Leetcode/X0206_ReverseLinkedList"
 	"Leetcode/X0217_ContainsDuplicate"
+	"Leetcode/X0219_ContainsDuplicate2"
 	"fmt"
 )
 
@@ -140,4 +141,6 @@ func main() {
 	X0206_ReverseLinkedList.Main()
 	fmt.Println("X0217_ContainsDuplicate:")
 	X0217_ContainsDuplicate.Main()
+	fmt.Println("X0219_ContainsDuplicate2:")
+	X0219_ContainsDuplicate2.Main()
 }
