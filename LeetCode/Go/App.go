@@ -47,6 +47,7 @@ import (
 	"Leetcode/X0206_ReverseLinkedList"
 	"Leetcode/X0217_ContainsDuplicate"
 	"Leetcode/X0219_ContainsDuplicate2"
+	"Leetcode/X0225_ImplementingStackUsingQueues"
 	"fmt"
 )
 
@@ -143,4 +144,6 @@ func main() {
 	X0217_ContainsDuplicate.Main()
 	fmt.Println("X0219_ContainsDuplicate2:")
 	X0219_ContainsDuplicate2.Main()
+	fmt.Println("X0225_ImplementStackUsingQueues:")
+	X0225_ImplementingStackUsingQueues.Main()
 }
