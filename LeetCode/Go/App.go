@@ -48,6 +48,7 @@ import (
 	"Leetcode/X0217_ContainsDuplicate"
 	"Leetcode/X0219_ContainsDuplicate2"
 	"Leetcode/X0225_ImplementingStackUsingQueues"
+	"Leetcode/X0226_InvertBinaryTree"
 	"fmt"
 )
 
@@ -146,4 +147,6 @@ func main() {
 	X0219_ContainsDuplicate2.Main()
 	fmt.Println("X0225_ImplementStackUsingQueues:")
 	X0225_ImplementingStackUsingQueues.Main()
+	fmt.Println("X0226_InvertBinaryTree:")
+	X0226_InvertBinaryTree.Main()
 }
