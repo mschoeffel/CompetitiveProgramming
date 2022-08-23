@@ -1,0 +1,38 @@
+package X0231_PowerOfTwo
+
+import (
+	"strconv"
+	"testing"
+)
+
+type InputCase struct {
+	num      int
+	expected bool
+	comment  string
+}
+
+func TestApp(t *testing.T) {
+	testSets := []InputCase{
+		{num: 1, expected: true, comment: "Example1"},
+		{num: 16, expected: true, comment: "Example2"},
+		{num: 13, expected: false, comment: "Example3"},
+		{num: 0, expected: false, comment: "Zero"},
+		{num: -2, expected: false, comment: "NegativeNumber"},
+	}
+
+	for index, element := range testSets {
+		t.Run("Test: "+strconv.Itoa(index)+"_"+element.comment,
+			func(t *testing.T) {
+				testApp(element.num, element.expected, index, t)
+			})
+	}
+}
+
+func testApp(num int, expected bool, index int, t *testing.T) {
+	result := isPowerOfTwo(num)
+	if result != expected {
+		t.Errorf("Error at Testset: " + strconv.Itoa(index) +
+			" Expected: " + strconv.FormatBool(expected) +
+			" Actual: " + strconv.FormatBool(result))
+	}
+}
