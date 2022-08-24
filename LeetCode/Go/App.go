@@ -51,6 +51,7 @@ import (
 	"Leetcode/X0226_InvertBinaryTree"
 	"Leetcode/X0228_SummaryRanges"
 	"Leetcode/X0231_PowerOfTwo"
+	"Leetcode/X0232_ImplementQueueUsingStacks"
 	"fmt"
 )
 
@@ -155,4 +156,6 @@ func main() {
 	X0228_SummaryRanges.Main()
 	fmt.Println("X0231_PowerOfTwo:")
 	X0231_PowerOfTwo.Main()
+	fmt.Println("X0232_ImplementQueueUsingStacks:")
+	X0232_ImplementQueueUsingStacks.Main()
 }
