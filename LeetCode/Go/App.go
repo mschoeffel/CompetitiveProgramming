@@ -52,6 +52,7 @@ import (
 	"Leetcode/X0228_SummaryRanges"
 	"Leetcode/X0231_PowerOfTwo"
 	"Leetcode/X0232_ImplementQueueUsingStacks"
+	"Leetcode/X0234_PalindromeLinkedList"
 	"fmt"
 )
 
@@ -158,4 +159,6 @@ func main() {
 	X0231_PowerOfTwo.Main()
 	fmt.Println("X0232_ImplementQueueUsingStacks:")
 	X0232_ImplementQueueUsingStacks.Main()
+	fmt.Println("X0234_PalindromeLinkedList:")
+	X0234_PalindromeLinkedList.Main()
 }
