@@ -53,6 +53,7 @@ import (
 	"Leetcode/X0231_PowerOfTwo"
 	"Leetcode/X0232_ImplementQueueUsingStacks"
 	"Leetcode/X0234_PalindromeLinkedList"
+	"Leetcode/X0235_LowestCommonAncestorOfABinarySearchTree"
 	"fmt"
 )
 
@@ -161,4 +162,6 @@ func main() {
 	X0232_ImplementQueueUsingStacks.Main()
 	fmt.Println("X0234_PalindromeLinkedList:")
 	X0234_PalindromeLinkedList.Main()
+	fmt.Println("X0235_LowestCommonAncestorOfABinarySearchTree:")
+	X0235_LowestCommonAncestorOfABinarySearchTree.Main()
 }
