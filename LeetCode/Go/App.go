@@ -54,6 +54,7 @@ import (
 	"Leetcode/X0232_ImplementQueueUsingStacks"
 	"Leetcode/X0234_PalindromeLinkedList"
 	"Leetcode/X0235_LowestCommonAncestorOfABinarySearchTree"
+	"Leetcode/X0237_DeleteNodeInALinkedList"
 	"fmt"
 )
 
@@ -164,4 +165,6 @@ func main() {
 	X0234_PalindromeLinkedList.Main()
 	fmt.Println("X0235_LowestCommonAncestorOfABinarySearchTree:")
 	X0235_LowestCommonAncestorOfABinarySearchTree.Main()
+	fmt.Println("X0237_DeleteNodeInALinkedList:")
+	X0237_DeleteNodeInALinkedList.Main()
 }
