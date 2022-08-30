@@ -55,6 +55,7 @@ import (
 	"Leetcode/X0234_PalindromeLinkedList"
 	"Leetcode/X0235_LowestCommonAncestorOfABinarySearchTree"
 	"Leetcode/X0237_DeleteNodeInALinkedList"
+	"Leetcode/X0242_ValidAnagram"
 	"fmt"
 )
 
@@ -167,4 +168,6 @@ func main() {
 	X0235_LowestCommonAncestorOfABinarySearchTree.Main()
 	fmt.Println("X0237_DeleteNodeInALinkedList:")
 	X0237_DeleteNodeInALinkedList.Main()
+	fmt.Println("X0242_ValidAnagram:")
+	X0242_ValidAnagram.Main()
 }
