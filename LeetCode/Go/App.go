@@ -57,6 +57,7 @@ import (
 	"Leetcode/X0237_DeleteNodeInALinkedList"
 	"Leetcode/X0242_ValidAnagram"
 	"Leetcode/X0257_BinaryTreePaths"
+	"Leetcode/X0258_AddDigits"
 	"fmt"
 )
 
@@ -173,4 +174,6 @@ func main() {
 	X0242_ValidAnagram.Main()
 	fmt.Println("X0257_BinaryTreePaths:")
 	X0257_BinaryTreePaths.Main()
+	fmt.Println("X0258_AddDigits:")
+	X0258_AddDigits.Main()
 }
