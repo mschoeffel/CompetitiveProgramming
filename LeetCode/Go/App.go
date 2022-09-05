@@ -59,6 +59,7 @@ import (
 	"Leetcode/X0257_BinaryTreePaths"
 	"Leetcode/X0258_AddDigits"
 	"Leetcode/X0263_UglyNumber"
+	"Leetcode/X0268_MissingNumber"
 	"fmt"
 )
 
@@ -179,4 +180,6 @@ func main() {
 	X0258_AddDigits.Main()
 	fmt.Println("X0263_UglyNumber:")
 	X0263_UglyNumber.Main()
+	fmt.Println("X0268_MissingNumber:")
+	X0268_MissingNumber.Main()
 }
