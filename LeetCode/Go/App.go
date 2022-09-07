@@ -61,6 +61,7 @@ import (
 	"Leetcode/X0263_UglyNumber"
 	"Leetcode/X0268_MissingNumber"
 	"Leetcode/X0278_FirstBadVersion"
+	"Leetcode/X0283_MoveZeroes"
 	"fmt"
 )
 
@@ -185,4 +186,6 @@ func main() {
 	X0268_MissingNumber.Main()
 	fmt.Println("X0278_FirstBadVersion:")
 	X0278_FirstBadVersion.Main()
+	fmt.Println("X0283_MoveZeroes:")
+	X0283_MoveZeroes.Main()
 }
