@@ -63,6 +63,7 @@ import (
 	"Leetcode/X0278_FirstBadVersion"
 	"Leetcode/X0283_MoveZeroes"
 	"Leetcode/X0290_WordPattern"
+	"Leetcode/X0292_NimGame"
 	"fmt"
 )
 
@@ -191,4 +192,6 @@ func main() {
 	X0283_MoveZeroes.Main()
 	fmt.Println("X0290_WordPattern:")
 	X0290_WordPattern.Main()
+	fmt.Println("X0292_NimGame:")
+	X0292_NimGame.Main()
 }
