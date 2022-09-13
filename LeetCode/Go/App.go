@@ -64,6 +64,7 @@ import (
 	"Leetcode/X0283_MoveZeroes"
 	"Leetcode/X0290_WordPattern"
 	"Leetcode/X0292_NimGame"
+	"Leetcode/X0326_PowerOfThree"
 	"fmt"
 )
 
@@ -194,4 +195,6 @@ func main() {
 	X0290_WordPattern.Main()
 	fmt.Println("X0292_NimGame:")
 	X0292_NimGame.Main()
+	fmt.Println("X0326_PowerOfThree:")
+	X0326_PowerOfThree.Main()
 }
