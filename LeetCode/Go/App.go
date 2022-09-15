@@ -66,6 +66,7 @@ import (
 	"Leetcode/X0292_NimGame"
 	"Leetcode/X0326_PowerOfThree"
 	"Leetcode/X0338_CountingBits"
+	"Leetcode/X0342_PowerOfFour"
 	"fmt"
 )
 
@@ -200,4 +201,6 @@ func main() {
 	X0326_PowerOfThree.Main()
 	fmt.Println("X0338_CountingBits:")
 	X0338_CountingBits.Main()
+	fmt.Println("X0342_PowerOfFour:")
+	X0342_PowerOfFour.Main()
 }
