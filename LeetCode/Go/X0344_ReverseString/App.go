@@ -10,7 +10,7 @@ func Main() {
 
 	reverseString(s)
 	output, _ := json.Marshal(s)
-	fmt.Println("Result Power of Four: " + string(output))
+	fmt.Println("Result Reverse String: " + string(output))
 
 }
 

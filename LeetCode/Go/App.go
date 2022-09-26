@@ -68,6 +68,7 @@ import (
 	"Leetcode/X0338_CountingBits"
 	"Leetcode/X0342_PowerOfFour"
 	"Leetcode/X0344_ReverseString"
+	"Leetcode/X0345_ReverseVowelsOfAString"
 	"fmt"
 )
 
@@ -206,4 +207,6 @@ func main() {
 	X0342_PowerOfFour.Main()
 	fmt.Println("X0344_ReverseString:")
 	X0344_ReverseString.Main()
+	fmt.Println("X0345_ReverseVowelsOfAString:")
+	X0345_ReverseVowelsOfAString.Main()
 }
