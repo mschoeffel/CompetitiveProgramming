@@ -69,6 +69,7 @@ import (
 	"Leetcode/X0342_PowerOfFour"
 	"Leetcode/X0344_ReverseString"
 	"Leetcode/X0345_ReverseVowelsOfAString"
+	"Leetcode/X0349_IntersectionOfTwoArrays"
 	"fmt"
 )
 
@@ -209,4 +210,6 @@ func main() {
 	X0344_ReverseString.Main()
 	fmt.Println("X0345_ReverseVowelsOfAString:")
 	X0345_ReverseVowelsOfAString.Main()
+	fmt.Println("X0349_IntersectionOfTwoArrays:")
+	X0349_IntersectionOfTwoArrays.Main()
 }
