@@ -70,6 +70,7 @@ import (
 	"Leetcode/X0344_ReverseString"
 	"Leetcode/X0345_ReverseVowelsOfAString"
 	"Leetcode/X0349_IntersectionOfTwoArrays"
+	"Leetcode/X0350_IntersectionOfTwoArrays2"
 	"fmt"
 )
 
@@ -212,4 +213,6 @@ func main() {
 	X0345_ReverseVowelsOfAString.Main()
 	fmt.Println("X0349_IntersectionOfTwoArrays:")
 	X0349_IntersectionOfTwoArrays.Main()
+	fmt.Println("X0350_IntersectionOfTwoArrays2:")
+	X0350_IntersectionOfTwoArrays2.Main()
 }
