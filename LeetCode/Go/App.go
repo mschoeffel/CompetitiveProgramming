@@ -71,6 +71,7 @@ import (
 	"Leetcode/X0345_ReverseVowelsOfAString"
 	"Leetcode/X0349_IntersectionOfTwoArrays"
 	"Leetcode/X0350_IntersectionOfTwoArrays2"
+	"Leetcode/X0367_ValidPerfectSquare"
 	"fmt"
 )
 
@@ -215,4 +216,6 @@ func main() {
 	X0349_IntersectionOfTwoArrays.Main()
 	fmt.Println("X0350_IntersectionOfTwoArrays2:")
 	X0350_IntersectionOfTwoArrays2.Main()
+	fmt.Println("X0367_ValidPerfectSquare:")
+	X0367_ValidPerfectSquare.Main()
 }
