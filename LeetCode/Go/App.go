@@ -72,6 +72,7 @@ import (
 	"Leetcode/X0349_IntersectionOfTwoArrays"
 	"Leetcode/X0350_IntersectionOfTwoArrays2"
 	"Leetcode/X0367_ValidPerfectSquare"
+	"Leetcode/X0374_GuessNumberHigherOrLower"
 	"fmt"
 )
 
@@ -218,4 +219,6 @@ func main() {
 	X0350_IntersectionOfTwoArrays2.Main()
 	fmt.Println("X0367_ValidPerfectSquare:")
 	X0367_ValidPerfectSquare.Main()
+	fmt.Println("X037_GuessNumberHigherOrLower:")
+	X0374_GuessNumberHigherOrLower.Main()
 }
