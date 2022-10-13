@@ -74,6 +74,7 @@ import (
 	"Leetcode/X0367_ValidPerfectSquare"
 	"Leetcode/X0374_GuessNumberHigherOrLower"
 	"Leetcode/X0383_RansomNote"
+	"Leetcode/X0387_FirstUniqueCharacterInAString"
 	"fmt"
 )
 
@@ -224,4 +225,6 @@ func main() {
 	X0374_GuessNumberHigherOrLower.Main()
 	fmt.Println("X0383_RansomNote:")
 	X0383_RansomNote.Main()
+	fmt.Println("X0387_FirstUniqueCharacterInAString:")
+	X0387_FirstUniqueCharacterInAString.Main()
 }
