@@ -75,6 +75,7 @@ import (
 	"Leetcode/X0374_GuessNumberHigherOrLower"
 	"Leetcode/X0383_RansomNote"
 	"Leetcode/X0387_FirstUniqueCharacterInAString"
+	"Leetcode/X0389_FindTheDifference"
 	"fmt"
 )
 
@@ -227,4 +228,6 @@ func main() {
 	X0383_RansomNote.Main()
 	fmt.Println("X0387_FirstUniqueCharacterInAString:")
 	X0387_FirstUniqueCharacterInAString.Main()
+	fmt.Println("X0389_FindTheDifference:")
+	X0389_FindTheDifference.Main()
 }
