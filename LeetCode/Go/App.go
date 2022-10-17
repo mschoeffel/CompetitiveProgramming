@@ -76,6 +76,7 @@ import (
 	"Leetcode/X0383_RansomNote"
 	"Leetcode/X0387_FirstUniqueCharacterInAString"
 	"Leetcode/X0389_FindTheDifference"
+	"Leetcode/X0392_IsSubsequence"
 	"fmt"
 )
 
@@ -230,4 +231,6 @@ func main() {
 	X0387_FirstUniqueCharacterInAString.Main()
 	fmt.Println("X0389_FindTheDifference:")
 	X0389_FindTheDifference.Main()
+	fmt.Println("X0392_IsSubsequence:")
+	X0392_IsSubsequence.Main()
 }
