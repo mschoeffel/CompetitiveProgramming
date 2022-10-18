@@ -77,6 +77,7 @@ import (
 	"Leetcode/X0387_FirstUniqueCharacterInAString"
 	"Leetcode/X0389_FindTheDifference"
 	"Leetcode/X0392_IsSubsequence"
+	"Leetcode/X0401_BinaryWatch"
 	"fmt"
 )
 
@@ -233,4 +234,6 @@ func main() {
 	X0389_FindTheDifference.Main()
 	fmt.Println("X0392_IsSubsequence:")
 	X0392_IsSubsequence.Main()
+	fmt.Println("X0401_BinaryWatch:")
+	X0401_BinaryWatch.Main()
 }
