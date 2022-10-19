@@ -78,6 +78,7 @@ import (
 	"Leetcode/X0389_FindTheDifference"
 	"Leetcode/X0392_IsSubsequence"
 	"Leetcode/X0401_BinaryWatch"
+	"Leetcode/X0404_SumOfLeftLeaves"
 	"fmt"
 )
 
@@ -236,4 +237,6 @@ func main() {
 	X0392_IsSubsequence.Main()
 	fmt.Println("X0401_BinaryWatch:")
 	X0401_BinaryWatch.Main()
+	fmt.Println("X0404_SumOfLeftLeaves:")
+	X0404_SumOfLeftLeaves.Main()
 }
