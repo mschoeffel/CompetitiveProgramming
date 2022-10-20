@@ -79,6 +79,7 @@ import (
 	"Leetcode/X0392_IsSubsequence"
 	"Leetcode/X0401_BinaryWatch"
 	"Leetcode/X0404_SumOfLeftLeaves"
+	"Leetcode/X0405_ConvertANumberToHexadecimal"
 	"fmt"
 )
 
@@ -239,4 +240,6 @@ func main() {
 	X0401_BinaryWatch.Main()
 	fmt.Println("X0404_SumOfLeftLeaves:")
 	X0404_SumOfLeftLeaves.Main()
+	fmt.Println("X0405_ConvertANumberToHexadecimal:")
+	X0405_ConvertANumberToHexadecimal.Main()
 }
