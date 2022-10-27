@@ -81,6 +81,7 @@ import (
 	"Leetcode/X0404_SumOfLeftLeaves"
 	"Leetcode/X0405_ConvertANumberToHexadecimal"
 	"Leetcode/X0409_LongestPalindrome"
+	"Leetcode/X0412_FizzBuzz"
 	"fmt"
 )
 
@@ -245,4 +246,6 @@ func main() {
 	X0405_ConvertANumberToHexadecimal.Main()
 	fmt.Println("X0409_LongestPalindrome:")
 	X0409_LongestPalindrome.Main()
+	fmt.Println("X0412_FizzBuzz:")
+	X0412_FizzBuzz.Main()
 }
