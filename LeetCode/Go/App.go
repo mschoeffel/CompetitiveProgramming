@@ -82,6 +82,7 @@ import (
 	"Leetcode/X0405_ConvertANumberToHexadecimal"
 	"Leetcode/X0409_LongestPalindrome"
 	"Leetcode/X0412_FizzBuzz"
+	"Leetcode/X0414_ThirdMaximumNumber"
 	"fmt"
 )
 
@@ -248,4 +249,6 @@ func main() {
 	X0409_LongestPalindrome.Main()
 	fmt.Println("X0412_FizzBuzz:")
 	X0412_FizzBuzz.Main()
+	fmt.Println("X0414_ThirdMaximumNumber:")
+	X0414_ThirdMaximumNumber.Main()
 }
