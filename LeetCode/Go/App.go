@@ -83,6 +83,7 @@ import (
 	"Leetcode/X0409_LongestPalindrome"
 	"Leetcode/X0412_FizzBuzz"
 	"Leetcode/X0414_ThirdMaximumNumber"
+	"Leetcode/X0415_AddStrings"
 	"fmt"
 )
 
@@ -251,4 +252,6 @@ func main() {
 	X0412_FizzBuzz.Main()
 	fmt.Println("X0414_ThirdMaximumNumber:")
 	X0414_ThirdMaximumNumber.Main()
+	fmt.Println("X0415_AddStrings:")
+	X0415_AddStrings.Main()
 }
