@@ -84,6 +84,7 @@ import (
 	"Leetcode/X0412_FizzBuzz"
 	"Leetcode/X0414_ThirdMaximumNumber"
 	"Leetcode/X0415_AddStrings"
+	"Leetcode/X0434_NumberOfSegmentsInAString"
 	"fmt"
 )
 
@@ -254,4 +255,6 @@ func main() {
 	X0414_ThirdMaximumNumber.Main()
 	fmt.Println("X0415_AddStrings:")
 	X0415_AddStrings.Main()
+	fmt.Println("X0434_NumberOfSegmentsInAString:")
+	X0434_NumberOfSegmentsInAString.Main()
 }
