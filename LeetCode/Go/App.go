@@ -87,6 +87,7 @@ import (
 	"Leetcode/X0434_NumberOfSegmentsInAString"
 	"Leetcode/X0441_ArrangingCoins"
 	"Leetcode/X0448_FindAllNumbersDisappearedInAnArray"
+	"Leetcode/X0455_AssignCookies"
 	"fmt"
 )
 
@@ -263,4 +264,6 @@ func main() {
 	X0441_ArrangingCoins.Main()
 	fmt.Println("X0448_FindAllNumbersDisappearedInAnArray:")
 	X0448_FindAllNumbersDisappearedInAnArray.Main()
+	fmt.Println("X0455_AssignCookies:")
+	X0455_AssignCookies.Main()
 }
