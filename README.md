@@ -92,3 +92,10 @@ Collection all competitive programming contributions
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0448_FindAllNumbersDisappearedInAnArray)      |        |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                 | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0455_AssignCookies)                           |        |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                         | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0459_RepeatedSubstringPattern)                |        |
+
+## Advent of Code
+### [2022](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022)
+
+| Day                                       | Part 1 (Go)                                                                                    | Part 2 (Go)                                                                                    |
+|-------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [01](https://adventofcode.com/2022/day/1) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day01) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day01) |
