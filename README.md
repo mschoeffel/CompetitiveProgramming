@@ -1,7 +1,10 @@
 # CompetitiveProgramming
 Collection all competitive programming contributions
 
-## LeetCode
+1. [LeetCode](#leetcode)
+2. [Advent of Code](#advent-of-code)
+
+## <a name="leetcode"></a>LeetCode
 | ID  | Title                                                                                                                           | Go                                                                                                                             | Python |
 |-----|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0001_TwoSum)                                  |        |
@@ -93,9 +96,10 @@ Collection all competitive programming contributions
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                 | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0455_AssignCookies)                           |        |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                         | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0459_RepeatedSubstringPattern)                |        |
 
-## Advent of Code
+## <a name="advent-of-code"></a>Advent of Code
 ### [2022](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022)
 
 | Day                                       | Part 1 (Go)                                                                                    | Part 2 (Go)                                                                                    |
 |-------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [01](https://adventofcode.com/2022/day/1) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day01) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day01) |
+| [02](https://adventofcode.com/2022/day/2) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day02) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day02) |
