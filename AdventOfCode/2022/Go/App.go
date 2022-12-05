@@ -3,6 +3,7 @@ package main
 import (
 	"AdventOfCode-2022/Day01"
 	"AdventOfCode-2022/Day02"
+	"AdventOfCode-2022/Day03"
 	"fmt"
 	"log"
 )
@@ -22,7 +23,9 @@ func main() {
 		case 2:
 			Day02.Main()
 			break
+		case 3:
+			Day03.Main()
+			break
 		}
-
 	}
 }
