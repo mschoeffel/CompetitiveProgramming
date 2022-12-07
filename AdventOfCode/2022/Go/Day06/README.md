@@ -30,7 +30,7 @@ Here are a few more examples:
 
 Your puzzle answer was `1766`.
 
-##Part Two
+## Part Two
 Your device's communication system is correctly detecting packets, but still isn't working. It looks like it also needs to look for **messages**.
 
 A **start-of-message marker** is just like a start-of-packet marker, except it consists of **14 distinct characters** rather than 4.
