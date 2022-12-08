@@ -8,6 +8,7 @@ import (
 	"AdventOfCode-2022/Day05"
 	"AdventOfCode-2022/Day06"
 	"AdventOfCode-2022/Day07"
+	"AdventOfCode-2022/Day08"
 	"fmt"
 	"log"
 )
@@ -41,6 +42,9 @@ func main() {
 			break
 		case 7:
 			Day07.Main()
+			break
+		case 8:
+			Day08.Main()
 			break
 		}
 	}
