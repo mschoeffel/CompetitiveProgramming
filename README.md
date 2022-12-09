@@ -97,6 +97,9 @@ Collection all competitive programming contributions
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                         | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0459_RepeatedSubstringPattern)                |        |
 
 ## <a name="advent-of-code"></a>Advent of Code
+
+**Credits:** All credits of the tasks and questions go to `Eric Wastl` (Twitter: `@ericwastl`)! Go check out his website: [Advent of Code](https://adventofcode.com/) to support him and get further information! 
+
 ### [2022](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022)
 
 | Day                                       | Part 1 (Go)                                                                                    | Part 2 (Go)                                                                                    |
@@ -109,3 +112,4 @@ Collection all competitive programming contributions
 | [06](https://adventofcode.com/2022/day/6) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day06) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day06) |
 | [07](https://adventofcode.com/2022/day/7) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day07) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day07) |
 | [08](https://adventofcode.com/2022/day/8) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day08) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day08) |
+| [09](https://adventofcode.com/2022/day/9) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day09) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day09) |
