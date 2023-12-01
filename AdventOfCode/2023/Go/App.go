@@ -1,6 +1,7 @@
 package main
 
 import (
+	"AdventOfCode-2023/Day01"
 	"fmt"
 	"log"
 )
@@ -14,6 +15,9 @@ func main() {
 		log.Fatal(err)
 	} else {
 		switch number {
+		case 1:
+			Day01.Main()
+			break
 		default:
 			fmt.Println("Not implemented yet.")
 			break

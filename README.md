@@ -3,6 +3,8 @@ Collection all competitive programming contributions
 
 1. [LeetCode](#leetcode)
 2. [Advent of Code](#advent-of-code)
+   1. [2022](#advent-of-code-2022)
+   2. [2023](#advent-of-code-2023)
 
 ## <a name="leetcode"></a>LeetCode
 | ID  | Title                                                                                                                           | Go                                                                                                                             | Python |
@@ -100,7 +102,7 @@ Collection all competitive programming contributions
 
 **Credits:** All credits of the tasks and questions go to `Eric Wastl` (Twitter: `@ericwastl`)! Go check out his website: [Advent of Code](https://adventofcode.com/) to support him and get further information! 
 
-### [2022](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022)
+### <a name="advent-of-code-2022"></a>[2022](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022)
 
 | Day                                        | Part 1 (Go)                                                                                    | Part 2 (Go)                                                                                    |
 |--------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -114,3 +116,9 @@ Collection all competitive programming contributions
 | [08](https://adventofcode.com/2022/day/8)  | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day08) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day08) |
 | [09](https://adventofcode.com/2022/day/9)  | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day09) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day09) |
 | [10](https://adventofcode.com/2022/day/10) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day10) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day10) |
+
+### <a name="advent-of-code-2023"></a>[2023](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2023)
+
+| Day                                       | Part 1 (Go)                                                                                    | Part 2 (Go) |
+|-------------------------------------------|------------------------------------------------------------------------------------------------|-------------|
+| [01](https://adventofcode.com/2023/day/1) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2023/Go/Day01) | &nbsp;      |
