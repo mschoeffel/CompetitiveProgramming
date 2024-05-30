@@ -89,6 +89,7 @@ import (
 	"Leetcode/X0448_FindAllNumbersDisappearedInAnArray"
 	"Leetcode/X0455_AssignCookies"
 	"Leetcode/X0459_RepeatedSubstringPattern"
+	"Leetcode/X0461_HammingDistance"
 	"fmt"
 )
 
@@ -269,4 +270,6 @@ func main() {
 	X0455_AssignCookies.Main()
 	fmt.Println("X0459_RepeatedSubstringPattern:")
 	X0459_RepeatedSubstringPattern.Main()
+	fmt.Println("X0461_HammingDistance:")
+	X0461_HammingDistance.Main()
 }

@@ -1,12 +1,14 @@
 # CompetitiveProgramming
+
 Collection all competitive programming contributions
 
 1. [LeetCode](#leetcode)
 2. [Advent of Code](#advent-of-code)
-   1. [2022](#advent-of-code-2022)
-   2. [2023](#advent-of-code-2023)
+    1. [2022](#advent-of-code-2022)
+    2. [2023](#advent-of-code-2023)
 
 ## <a name="leetcode"></a>LeetCode
+
 | ID  | Title                                                                                                                           | Go                                                                                                                             | Python |
 |-----|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0001_TwoSum)                                  |        |
@@ -97,10 +99,12 @@ Collection all competitive programming contributions
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0448_FindAllNumbersDisappearedInAnArray)      |        |
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                 | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0455_AssignCookies)                           |        |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                         | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0459_RepeatedSubstringPattern)                |        |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0461_HammingDistance)                         |        |
 
 ## <a name="advent-of-code"></a>Advent of Code
 
-**Credits:** All credits of the tasks and questions go to `Eric Wastl` (Twitter: `@ericwastl`)! Go check out his website: [Advent of Code](https://adventofcode.com/) to support him and get further information! 
+**Credits:** All credits of the tasks and questions go to `Eric Wastl` (Twitter: `@ericwastl`)! Go check out his
+website: [Advent of Code](https://adventofcode.com/) to support him and get further information!
 
 ### <a name="advent-of-code-2022"></a>[2022](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022)
 
