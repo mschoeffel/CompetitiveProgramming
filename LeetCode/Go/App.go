@@ -90,6 +90,7 @@ import (
 	"Leetcode/X0455_AssignCookies"
 	"Leetcode/X0459_RepeatedSubstringPattern"
 	"Leetcode/X0461_HammingDistance"
+	"Leetcode/X0463_IslandPerimeter"
 	"fmt"
 )
 
@@ -272,4 +273,6 @@ func main() {
 	X0459_RepeatedSubstringPattern.Main()
 	fmt.Println("X0461_HammingDistance:")
 	X0461_HammingDistance.Main()
+	fmt.Println("X0463_IslandPerimeter:")
+	X0463_IslandPerimeter.Main()
 }

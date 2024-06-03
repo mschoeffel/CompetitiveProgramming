@@ -100,6 +100,7 @@ Collection all competitive programming contributions
 | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)                                                                 | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0455_AssignCookies)                           |        |
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                         | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0459_RepeatedSubstringPattern)                |        |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0461_HammingDistance)                         |        |
+| 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0463_IslandPerimeter)                         |        |
 
 ## <a name="advent-of-code"></a>Advent of Code
 
