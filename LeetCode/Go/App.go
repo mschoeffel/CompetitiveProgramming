@@ -91,6 +91,7 @@ import (
 	"Leetcode/X0459_RepeatedSubstringPattern"
 	"Leetcode/X0461_HammingDistance"
 	"Leetcode/X0463_IslandPerimeter"
+	"Leetcode/X0476_NumberComplement"
 	"fmt"
 )
 
@@ -275,4 +276,6 @@ func main() {
 	X0461_HammingDistance.Main()
 	fmt.Println("X0463_IslandPerimeter:")
 	X0463_IslandPerimeter.Main()
+	fmt.Println("X0476_NumberComplement:")
+	X0476_NumberComplement.Main()
 }

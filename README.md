@@ -101,6 +101,7 @@ Collection all competitive programming contributions
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                         | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0459_RepeatedSubstringPattern)                |        |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0461_HammingDistance)                         |        |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0463_IslandPerimeter)                         |        |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement)                                                            | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0476_NumberComplement)                        |        |
 
 ## <a name="advent-of-code"></a>Advent of Code
 

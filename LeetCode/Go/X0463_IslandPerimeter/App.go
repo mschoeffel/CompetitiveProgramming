@@ -9,7 +9,7 @@ func Main() {
 	grid := [][]int{{0, 1, 0, 0}, {1, 1, 1, 0}, {0, 1, 0, 0}, {1, 1, 0, 0}}
 
 	result := islandPerimeter(grid)
-	fmt.Println("Result Hamming Distance: " + strconv.Itoa(result))
+	fmt.Println("Result Island Perimeter: " + strconv.Itoa(result))
 }
 
 func islandPerimeter(grid [][]int) int {
