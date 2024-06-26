@@ -92,6 +92,7 @@ import (
 	"Leetcode/X0461_HammingDistance"
 	"Leetcode/X0463_IslandPerimeter"
 	"Leetcode/X0476_NumberComplement"
+	"Leetcode/X0482_LicenseKeyFormatting"
 	"fmt"
 )
 
@@ -278,4 +279,6 @@ func main() {
 	X0463_IslandPerimeter.Main()
 	fmt.Println("X0476_NumberComplement:")
 	X0476_NumberComplement.Main()
+	fmt.Println("X0482_LicenseKeyFormatting:")
+	X0482_LicenseKeyFormatting.Main()
 }
