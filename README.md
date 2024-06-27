@@ -102,7 +102,8 @@ Collection all competitive programming contributions
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                                                             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0461_HammingDistance)                         |        |
 | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0463_IslandPerimeter)                         |        |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement)                                                            | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0476_NumberComplement)                        |        |
-| 482  | [License Key Formatting](https://leetcode.com/problems/license-key-formatting)                                                       | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0482_LicenseKeyFormatting)                    |        |
+| 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting)                                                  | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0482_LicenseKeyFormatting)                    |        |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)                                                      | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0485_MaxConsecutiveOnes)                      |        |
 
 ## <a name="advent-of-code"></a>Advent of Code
 

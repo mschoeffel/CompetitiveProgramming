@@ -93,6 +93,7 @@ import (
 	"Leetcode/X0463_IslandPerimeter"
 	"Leetcode/X0476_NumberComplement"
 	"Leetcode/X0482_LicenseKeyFormatting"
+	"Leetcode/X0485_MaxConsecutiveOnes"
 	"fmt"
 )
 
@@ -281,4 +282,6 @@ func main() {
 	X0476_NumberComplement.Main()
 	fmt.Println("X0482_LicenseKeyFormatting:")
 	X0482_LicenseKeyFormatting.Main()
+	fmt.Println("X0485_MaxConsecutiveOnes:")
+	X0485_MaxConsecutiveOnes.Main()
 }
