@@ -94,6 +94,7 @@ import (
 	"Leetcode/X0476_NumberComplement"
 	"Leetcode/X0482_LicenseKeyFormatting"
 	"Leetcode/X0485_MaxConsecutiveOnes"
+	"Leetcode/X0492_ConstructTheRectangle"
 	"fmt"
 )
 
@@ -284,4 +285,6 @@ func main() {
 	X0482_LicenseKeyFormatting.Main()
 	fmt.Println("X0485_MaxConsecutiveOnes:")
 	X0485_MaxConsecutiveOnes.Main()
+	fmt.Println("X0492_ConstructTheRectangle:")
+	X0492_ConstructTheRectangle.Main()
 }
