@@ -105,6 +105,7 @@ Collection all competitive programming contributions
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting)                                                  | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0482_LicenseKeyFormatting)                    |        |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)                                                      | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0485_MaxConsecutiveOnes)                      |        |
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)                                                | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0492_ConstructTheRectangle)                   |        |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking)                                                                | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0495_TeemoAttacking)                          |        |
 
 ## <a name="advent-of-code"></a>Advent of Code
 
