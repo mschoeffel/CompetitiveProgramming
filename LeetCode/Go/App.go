@@ -96,6 +96,7 @@ import (
 	"Leetcode/X0485_MaxConsecutiveOnes"
 	"Leetcode/X0492_ConstructTheRectangle"
 	"Leetcode/X0495_TeemoAttacking"
+	"Leetcode/X0496_NextGreaterElementI"
 	"fmt"
 )
 
@@ -290,4 +291,6 @@ func main() {
 	X0492_ConstructTheRectangle.Main()
 	fmt.Println("X0495_TeemoAttacking:")
 	X0495_TeemoAttacking.Main()
+	fmt.Println("X0496_NextGreaterElementI:")
+	X0496_NextGreaterElementI.Main()
 }

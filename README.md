@@ -106,6 +106,7 @@ Collection all competitive programming contributions
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)                                                      | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0485_MaxConsecutiveOnes)                      |        |
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)                                                | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0492_ConstructTheRectangle)                   |        |
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking)                                                                | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0495_TeemoAttacking)                          |        |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)                                                  | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0496_NextGreaterElementI)                     |        |
 
 ## <a name="advent-of-code"></a>Advent of Code
 
