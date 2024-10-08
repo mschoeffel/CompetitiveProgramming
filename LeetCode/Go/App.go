@@ -3,6 +3,7 @@ package main
 import (
 	"Leetcode/X0001_TwoSum"
 	"Leetcode/X0002_AddTwoNumbers"
+	"Leetcode/X0003_LongestSubstringWithoutRepeatingCharacters"
 	"Leetcode/X0009_PalindromeNumber"
 	"Leetcode/X0013_RomanToInteger"
 	"Leetcode/X0014_LongestCommonPrefix"
@@ -106,6 +107,8 @@ func main() {
 	X0001_TwoSum.Main()
 	fmt.Println("X0002_AddTwoNumbers:")
 	X0002_AddTwoNumbers.Main()
+	fmt.Println("X0003_LongestSubstringWithoutRepeatingCharacters:")
+	X0003_LongestSubstringWithoutRepeatingCharacters.Main()
 	fmt.Println("X0009_PalindromeNumber:")
 	X0009_PalindromeNumber.Main()
 	fmt.Println("X0013_RomanToInteger:")
