@@ -50,6 +50,7 @@ import (
 	"Leetcode/X0206_ReverseLinkedList"
 	"Leetcode/X0217_ContainsDuplicate"
 	"Leetcode/X0219_ContainsDuplicate2"
+	"Leetcode/X0222_CountCompleteTreeNodes"
 	"Leetcode/X0225_ImplementingStackUsingQueues"
 	"Leetcode/X0226_InvertBinaryTree"
 	"Leetcode/X0228_SummaryRanges"
@@ -202,6 +203,8 @@ func main() {
 	X0217_ContainsDuplicate.Main()
 	fmt.Println("X0219_ContainsDuplicate2:")
 	X0219_ContainsDuplicate2.Main()
+	fmt.Println("X0222_CountCompleteTreeNodes:")
+	X0222_CountCompleteTreeNodes.Main()
 	fmt.Println("X0225_ImplementStackUsingQueues:")
 	X0225_ImplementingStackUsingQueues.Main()
 	fmt.Println("X0226_InvertBinaryTree:")
