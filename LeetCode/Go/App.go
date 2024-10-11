@@ -6,6 +6,7 @@ import (
 	"Leetcode/X0003_LongestSubstringWithoutRepeatingCharacters"
 	"Leetcode/X0005_LongestPalindromicSubstring"
 	"Leetcode/X0009_PalindromeNumber"
+	"Leetcode/X0012_IntegerToRoman"
 	"Leetcode/X0013_RomanToInteger"
 	"Leetcode/X0014_LongestCommonPrefix"
 	"Leetcode/X0020_ValidParentheses"
@@ -115,6 +116,8 @@ func main() {
 	X0005_LongestPalindromicSubstring.Main()
 	fmt.Println("X0009_PalindromeNumber:")
 	X0009_PalindromeNumber.Main()
+	fmt.Println("X0012_IntegerToRoman:")
+	X0012_IntegerToRoman.Main()
 	fmt.Println("X0013_RomanToInteger:")
 	X0013_RomanToInteger.Main()
 	fmt.Println("X0014_LongestCommonPrefix:")
