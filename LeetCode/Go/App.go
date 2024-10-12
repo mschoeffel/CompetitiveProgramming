@@ -102,6 +102,7 @@ import (
 	"Leetcode/X0492_ConstructTheRectangle"
 	"Leetcode/X0495_TeemoAttacking"
 	"Leetcode/X0496_NextGreaterElementI"
+	"Leetcode/X0520_DetectCapital"
 	"fmt"
 )
 
@@ -308,4 +309,6 @@ func main() {
 	X0495_TeemoAttacking.Main()
 	fmt.Println("X0496_NextGreaterElementI:")
 	X0496_NextGreaterElementI.Main()
+	fmt.Println("X0520_DetectCapital:")
+	X0520_DetectCapital.Main()
 }
