@@ -12,6 +12,7 @@ import (
 	"Leetcode/X0017_LetterCombinationsOfAPhoneNumber"
 	"Leetcode/X0020_ValidParentheses"
 	"Leetcode/X0021_MergeTwoSortedLists"
+	"Leetcode/X0022_GenerateParentheses"
 	"Leetcode/X0026_RemoveDuplicatesFromSortedArray"
 	"Leetcode/X0027_RemoveElement"
 	"Leetcode/X0028_ImplementStrStr"
@@ -130,6 +131,8 @@ func main() {
 	X0020_ValidParentheses.Main()
 	fmt.Println("X0021_MergeTwoSortedLists:")
 	X0021_MergeTwoSortedLists.Main()
+	fmt.Println("X0022_GenerateParentheses:")
+	X0022_GenerateParentheses.Main()
 	fmt.Println("X0026_RemoveDuplicatesFromSortedArray:")
 	X0026_RemoveDuplicatesFromSortedArray.Main()
 	fmt.Println("X0027_RemoveElement:")
