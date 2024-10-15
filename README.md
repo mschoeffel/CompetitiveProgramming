@@ -114,6 +114,7 @@ Collection all competitive programming contributions
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                                               | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0492_ConstructTheRectangle)                      |        |
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)                                                               | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0495_TeemoAttacking)                             |        |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)                                                 | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0496_NextGreaterElementI)                        |        |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                             | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0509_FibonacciNumber)                            |        |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                                                 | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X0520_DetectCapital)                              |        |
 
 ## <a name="advent-of-code"></a>Advent of Code
