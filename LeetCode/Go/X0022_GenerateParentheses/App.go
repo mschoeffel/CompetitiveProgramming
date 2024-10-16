@@ -5,17 +5,17 @@ import (
 	"fmt"
 )
 
+func generateParenthesis(n int) []string {
+	result := []string{}
+	backtrack(&result, "", 0, 0, n)
+	return result
+}
+
 func Main() {
 	example1 := 2
 
 	result, _ := json.Marshal(generateParenthesis(example1))
 	fmt.Println("Result Generate Parentheses: " + string(result))
-}
-
-func generateParenthesis(n int) []string {
-	result := []string{}
-	backtrack(&result, "", 0, 0, n)
-	return result
 }
 
 func backtrack(result *[]string, str string, open int, close int, max int) {

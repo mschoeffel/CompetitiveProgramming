@@ -10,6 +10,7 @@ import (
 	"Leetcode/X0013_RomanToInteger"
 	"Leetcode/X0014_LongestCommonPrefix"
 	"Leetcode/X0017_LetterCombinationsOfAPhoneNumber"
+	"Leetcode/X0019_RemoveNthFromEndOfList"
 	"Leetcode/X0020_ValidParentheses"
 	"Leetcode/X0021_MergeTwoSortedLists"
 	"Leetcode/X0022_GenerateParentheses"
@@ -128,6 +129,8 @@ func main() {
 	X0014_LongestCommonPrefix.Main()
 	fmt.Println("X0017_LetterCombinationsOfAPhoneNumber:")
 	X0017_LetterCombinationsOfAPhoneNumber.Main()
+	fmt.Println("X0019_RemoveNthFromEndOfList:")
+	X0019_RemoveNthFromEndOfList.Main()
 	fmt.Println("X0020_ValidParentheses:")
 	X0020_ValidParentheses.Main()
 	fmt.Println("X0021_MergeTwoSortedLists:")
