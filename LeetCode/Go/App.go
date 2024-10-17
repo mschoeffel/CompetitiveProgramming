@@ -107,6 +107,7 @@ import (
 	"Leetcode/X0496_NextGreaterElementI"
 	"Leetcode/X0509_FibonacciNumber"
 	"Leetcode/X0520_DetectCapital"
+	"Leetcode/X0670_MaximumSwap"
 	"fmt"
 )
 
@@ -323,4 +324,6 @@ func main() {
 	X0509_FibonacciNumber.Main()
 	fmt.Println("X0520_DetectCapital:")
 	X0520_DetectCapital.Main()
+	fmt.Println("X0670_MaximumSwap:")
+	X0670_MaximumSwap.Main()
 }
