@@ -108,6 +108,7 @@ import (
 	"Leetcode/X0509_FibonacciNumber"
 	"Leetcode/X0520_DetectCapital"
 	"Leetcode/X0670_MaximumSwap"
+	"Leetcode/X2044_CountNumberOfMaximumBitwiseORSubsets"
 	"fmt"
 )
 
@@ -326,4 +327,6 @@ func main() {
 	X0520_DetectCapital.Main()
 	fmt.Println("X0670_MaximumSwap:")
 	X0670_MaximumSwap.Main()
+	fmt.Println("X2044_CountNumberOfMaximumBitwiseORSubsets:")
+	X2044_CountNumberOfMaximumBitwiseORSubsets.Main()
 }
