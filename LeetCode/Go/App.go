@@ -110,6 +110,7 @@ import (
 	"Leetcode/X0670_MaximumSwap"
 	"Leetcode/X1106_ParsingABooleanExpression"
 	"Leetcode/X1545_FindKthBitInNthBinaryString"
+	"Leetcode/X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings"
 	"Leetcode/X2044_CountNumberOfMaximumBitwiseORSubsets"
 	"fmt"
 )
@@ -333,6 +334,8 @@ func main() {
 	X1106_ParsingABooleanExpression.Main()
 	fmt.Println("X1545_ FindKthBitInNthBinaryString:")
 	X1545_FindKthBitInNthBinaryString.Main()
+	fmt.Println("X1593_SplitAStringIntoTHeMaxNumberOfUniqueStrings:")
+	X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings.Main()
 	fmt.Println("X2044_CountNumberOfMaximumBitwiseORSubsets:")
 	X2044_CountNumberOfMaximumBitwiseORSubsets.Main()
 }
