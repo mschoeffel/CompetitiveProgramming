@@ -123,6 +123,7 @@ Collection all competitive programming contributions
 | 1593 | [Split a String Into the Max Number of Unique Strings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings) |        |
 | 2044 | [Count Number of Maximum Bitwise OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)                        | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2044_CountNumberOfMaximumBitwiseORSubsets)        |        |
 | 2583 | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)                                            | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2583_KthLargestSumInABinaryTree)                  |        |
+| 2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/)                                                          | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2641_CousinsInBinaryTreeII)                       |        |
 
 ## <a name="advent-of-code"></a>Advent of Code
 

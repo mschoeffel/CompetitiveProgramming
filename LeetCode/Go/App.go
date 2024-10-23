@@ -113,6 +113,7 @@ import (
 	"Leetcode/X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings"
 	"Leetcode/X2044_CountNumberOfMaximumBitwiseORSubsets"
 	"Leetcode/X2583_KthLargestSumInABinaryTree"
+	"Leetcode/X2641_CousinsInBinaryTreeII"
 	"fmt"
 )
 
@@ -341,4 +342,6 @@ func main() {
 	X2044_CountNumberOfMaximumBitwiseORSubsets.Main()
 	fmt.Println("X2583_KthLargestSumInABinaryTree:")
 	X2583_KthLargestSumInABinaryTree.Main()
+	fmt.Println("X2641_CousinsInBinaryTreeII:")
+	X2641_CousinsInBinaryTreeII.Main()
 }
