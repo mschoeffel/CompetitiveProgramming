@@ -108,6 +108,7 @@ import (
 	"Leetcode/X0509_FibonacciNumber"
 	"Leetcode/X0520_DetectCapital"
 	"Leetcode/X0670_MaximumSwap"
+	"Leetcode/X0951_FlipEquivalentBinaryTrees"
 	"Leetcode/X1106_ParsingABooleanExpression"
 	"Leetcode/X1545_FindKthBitInNthBinaryString"
 	"Leetcode/X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings"
@@ -332,6 +333,8 @@ func main() {
 	X0520_DetectCapital.Main()
 	fmt.Println("X0670_MaximumSwap:")
 	X0670_MaximumSwap.Main()
+	fmt.Println("X0951_FlipEquivalentBinaryTrees:")
+	X0951_FlipEquivalentBinaryTrees.Main()
 	fmt.Println("X1106_ParsingABooleanExpression:")
 	X1106_ParsingABooleanExpression.Main()
 	fmt.Println("X1545_ FindKthBitInNthBinaryString:")
