@@ -111,6 +111,7 @@ import (
 	"Leetcode/X0951_FlipEquivalentBinaryTrees"
 	"Leetcode/X1106_ParsingABooleanExpression"
 	"Leetcode/X1233_RemoveSubFoldersFromTheFilesystem"
+	"Leetcode/X1277_CountSquareSubmatricesWithAllOnes"
 	"Leetcode/X1545_FindKthBitInNthBinaryString"
 	"Leetcode/X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings"
 	"Leetcode/X2044_CountNumberOfMaximumBitwiseORSubsets"
@@ -341,6 +342,8 @@ func main() {
 	X1106_ParsingABooleanExpression.Main()
 	fmt.Println("X1233_RemoveSubFoldersFromTheFilesystem:")
 	X1233_RemoveSubFoldersFromTheFilesystem.Main()
+	fmt.Println("X1277_CountSquareSubmatricesWithAllOnes:")
+	X1277_CountSquareSubmatricesWithAllOnes.Main()
 	fmt.Println("X1545_ FindKthBitInNthBinaryString:")
 	X1545_FindKthBitInNthBinaryString.Main()
 	fmt.Println("X1593_SplitAStringIntoTHeMaxNumberOfUniqueStrings:")
