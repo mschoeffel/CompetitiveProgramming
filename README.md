@@ -2,12 +2,12 @@
 
 Collection all competitive programming contributions
 
-1. [LeetCode](#leetcode)
-2. [Advent of Code](#advent-of-code)
-    1. [2022](#advent-of-code-2022)
-    2. [2023](#advent-of-code-2023)
+1. [LeetCode](#LeetCode)
+2. [Advent of Code](#Advent%20of%20Code)
+    1. [2022](#Advent%20of%20Code%202022)
+    2. [2023](#Advent%20of%20Code%202023)
 
-## <a name="leetcode"></a>LeetCode
+## LeetCode
 
 | ID   | Title                                                                                                                                          | Go                                                                                                                                  | Python |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|--------|
@@ -129,13 +129,14 @@ Collection all competitive programming contributions
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/)                                          | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2501_LongestSquareStreakInAnArray)                 |        |
 | 2583 | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)                                            | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2583_KthLargestSumInABinaryTree)                   |        |
 | 2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/)                                                          | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2641_CousinsInBinaryTreeII)                        |        |
+| 2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/)                                          | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2684_MaximumNumberOfMovesInAGrid)                  |        |
 
-## <a name="advent-of-code"></a>Advent of Code
+## Advent of Code
 
 **Credits:** All credits of the tasks and questions go to `Eric Wastl` (Twitter: `@ericwastl`)! Go check out his
 website: [Advent of Code](https://adventofcode.com/) to support him and get further information!
 
-### <a name="advent-of-code-2022"></a>[2022](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022)
+### [Advent of Code 2022](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022)
 
 | Day                                        | Part 1 (Go)                                                                                    | Part 2 (Go)                                                                                    |
 |--------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -150,7 +151,7 @@ website: [Advent of Code](https://adventofcode.com/) to support him and get furt
 | [09](https://adventofcode.com/2022/day/9)  | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day09) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day09) |
 | [10](https://adventofcode.com/2022/day/10) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day10) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2022/Go/Day10) |
 
-### <a name="advent-of-code-2023"></a>[2023](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2023)
+### [Advent of Code 2023](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2023)
 
 | Day                                       | Part 1 (Go)                                                                                    | Part 2 (Go) |
 |-------------------------------------------|------------------------------------------------------------------------------------------------|-------------|

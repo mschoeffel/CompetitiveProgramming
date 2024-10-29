@@ -119,6 +119,7 @@ import (
 	"Leetcode/X2501_LongestSquareStreakInAnArray"
 	"Leetcode/X2583_KthLargestSumInABinaryTree"
 	"Leetcode/X2641_CousinsInBinaryTreeII"
+	"Leetcode/X2684_MaximumNumberOfMovesInAGrid"
 	"fmt"
 )
 
@@ -359,4 +360,6 @@ func main() {
 	X2583_KthLargestSumInABinaryTree.Main()
 	fmt.Println("X2641_CousinsInBinaryTreeII:")
 	X2641_CousinsInBinaryTreeII.Main()
+	fmt.Println("X2684_MaximumNumberOfMovesInAGrid:")
+	X2684_MaximumNumberOfMovesInAGrid.Main()
 }
