@@ -3,9 +3,9 @@
 Collection all competitive programming contributions
 
 1. [LeetCode](#LeetCode)
-2. [Advent of Code](#Advent%20of%20Code)
-    1. [2022](#Advent%20of%20Code%202022)
-    2. [2023](#Advent%20of%20Code%202023)
+2. [Advent of Code](#Advent-of-Code)
+    1. [2022](#Advent-of-Code-2022)
+    2. [2023](#Advent-of-Code-2023)
 
 ## LeetCode
 
@@ -124,6 +124,7 @@ Collection all competitive programming contributions
 | 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)                                | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X1277_CountSquareSubmatricesWithAllOnes)            |        |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)                                          | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X1545_FindKthBitInNthBinaryString)                  |        |
 | 1593 | [Split a String Into the Max Number of Unique Strings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings)  |        |
+| 1671 | [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)          | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X1671_MinimumNumberOfRemovalsToMakeMountainArray)   |        |
 | 2044 | [Count Number of Maximum Bitwise OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)                        | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2044_CountNumberOfMaximumBitwiseORSubsets)         |        |
 | 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)      | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2458_HeightOfBinaryTreeAfterSubtreeRemovalQueries) |        |
 | 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/)                                          | [✔️](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/LeetCode/Go/X2501_LongestSquareStreakInAnArray)                 |        |

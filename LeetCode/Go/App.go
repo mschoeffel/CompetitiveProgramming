@@ -114,6 +114,7 @@ import (
 	"Leetcode/X1277_CountSquareSubmatricesWithAllOnes"
 	"Leetcode/X1545_FindKthBitInNthBinaryString"
 	"Leetcode/X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings"
+	"Leetcode/X1671_MinimumNumberOfRemovalsToMakeMountainArray"
 	"Leetcode/X2044_CountNumberOfMaximumBitwiseORSubsets"
 	"Leetcode/X2458_HeightOfBinaryTreeAfterSubtreeRemovalQueries"
 	"Leetcode/X2501_LongestSquareStreakInAnArray"
@@ -350,6 +351,8 @@ func main() {
 	X1545_FindKthBitInNthBinaryString.Main()
 	fmt.Println("X1593_SplitAStringIntoTHeMaxNumberOfUniqueStrings:")
 	X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings.Main()
+	fmt.Println("X1671_MinimumNumberOfRemovalsToMakeMountainsArray:")
+	X1671_MinimumNumberOfRemovalsToMakeMountainArray.Main()
 	fmt.Println("X2044_CountNumberOfMaximumBitwiseORSubsets:")
 	X2044_CountNumberOfMaximumBitwiseORSubsets.Main()
 	fmt.Println("X2458_HeightOfBinaryTreeAfterSubtreeRemovalQueries:")
