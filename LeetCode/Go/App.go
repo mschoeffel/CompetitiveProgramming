@@ -117,6 +117,7 @@ import (
 	"Leetcode/X1671_MinimumNumberOfRemovalsToMakeMountainArray"
 	"Leetcode/X2044_CountNumberOfMaximumBitwiseORSubsets"
 	"Leetcode/X2458_HeightOfBinaryTreeAfterSubtreeRemovalQueries"
+	"Leetcode/X2463_MinimumTotalDistanceTraveled"
 	"Leetcode/X2501_LongestSquareStreakInAnArray"
 	"Leetcode/X2583_KthLargestSumInABinaryTree"
 	"Leetcode/X2641_CousinsInBinaryTreeII"
@@ -357,6 +358,8 @@ func main() {
 	X2044_CountNumberOfMaximumBitwiseORSubsets.Main()
 	fmt.Println("X2458_HeightOfBinaryTreeAfterSubtreeRemovalQueries:")
 	X2458_HeightOfBinaryTreeAfterSubtreeRemovalQueries.Main()
+	fmt.Println("X2463_MinimumTotalDistanceTraveled:")
+	X2463_MinimumTotalDistanceTraveled.Main()
 	fmt.Println("X2501_LongestSquareStreakInAnArray:")
 	X2501_LongestSquareStreakInAnArray.Main()
 	fmt.Println("X2583_KthLargestSumInABinaryTree:")
