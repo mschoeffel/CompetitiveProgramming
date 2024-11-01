@@ -115,6 +115,7 @@ import (
 	"Leetcode/X1545_FindKthBitInNthBinaryString"
 	"Leetcode/X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings"
 	"Leetcode/X1671_MinimumNumberOfRemovalsToMakeMountainArray"
+	"Leetcode/X1957_DeleteCharactersToMakeFancyString"
 	"Leetcode/X2044_CountNumberOfMaximumBitwiseORSubsets"
 	"Leetcode/X2458_HeightOfBinaryTreeAfterSubtreeRemovalQueries"
 	"Leetcode/X2463_MinimumTotalDistanceTraveled"
@@ -354,6 +355,8 @@ func main() {
 	X1593_SplitAStringIntoTheMaxNumberOfUniqueStrings.Main()
 	fmt.Println("X1671_MinimumNumberOfRemovalsToMakeMountainsArray:")
 	X1671_MinimumNumberOfRemovalsToMakeMountainArray.Main()
+	fmt.Println("X1957_DeleteCharactersToMakeFancyString:")
+	X1957_DeleteCharactersToMakeFancyString.Main()
 	fmt.Println("X2044_CountNumberOfMaximumBitwiseORSubsets:")
 	X2044_CountNumberOfMaximumBitwiseORSubsets.Main()
 	fmt.Println("X2458_HeightOfBinaryTreeAfterSubtreeRemovalQueries:")
