@@ -4,8 +4,9 @@ Collection all competitive programming contributions
 
 1. [LeetCode](#LeetCode)
 2. [Advent of Code](#Advent-of-Code)
-    1. [2022](#Advent-of-Code-2022)
-    2. [2023](#Advent-of-Code-2023)
+   1. [2022](#Advent-of-Code-2022)
+   2. [2023](#Advent-of-Code-2023)
+   3. [2024](#Advent-of-Code-2024)
 
 ## LeetCode
 
@@ -160,3 +161,9 @@ website: [Advent of Code](https://adventofcode.com/) to support him and get furt
 | Day                                       | Part 1 (Go)                                                                                    | Part 2 (Go) |
 |-------------------------------------------|------------------------------------------------------------------------------------------------|-------------|
 | [01](https://adventofcode.com/2023/day/1) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2023/Go/Day01) | &nbsp;      |
+
+### [Advent of Code 2024](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2024)
+
+| Day                                       | Part 1 (Go)                                                                                    | Part 2 (Go)                                                                                    |
+|-------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [01](https://adventofcode.com/2024/day/1) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2024/Go/Day01) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2024/Go/Day01) |
