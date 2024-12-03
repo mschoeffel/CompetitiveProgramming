@@ -167,3 +167,4 @@ website: [Advent of Code](https://adventofcode.com/) to support him and get furt
 | Day                                       | Part 1 (Go)                                                                                    | Part 2 (Go)                                                                                    |
 |-------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [01](https://adventofcode.com/2024/day/1) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2024/Go/Day01) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2024/Go/Day01) |
+| [01](https://adventofcode.com/2024/day/2) | [⭐](https://github.com/mschoeffel/CompetitiveProgramming/tree/main/AdventOfCode/2024/Go/Day02) |  |
